@@ -2,4 +2,4 @@
 .fuse*
 ._*
 vmimages
-alpine/
+alpine/Logs/
