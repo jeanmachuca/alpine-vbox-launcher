@@ -3,3 +3,7 @@
 ._*
 vmimages
 alpine/Logs/
+session*
+.session*
+.sessions/
+sessions/
